@@ -16,7 +16,14 @@ Contributors: Ruchi Chandrawal, Emily Curlin, Lauren Phelps, Tye Smith, Steve Tu
 
 5. ReadMe (Tye Smith)
 
+Created numpy arrays from 1-9 for the categories and 1-24 for the subcategories, which organizes the data to have 9 categories with 24 sub categories.
 
+**Categories**
 
+![](https://github.com/emily-curlin/Crowdfunding_ETL/blob/main/Images/Categories.png)
+
+**Subcategories**
+
+![](https://github.com/emily-curlin/Crowdfunding_ETL/blob/main/Images/Sub%20Categories.png)
 
 
