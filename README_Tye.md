@@ -20,7 +20,7 @@ Contributors: Ruchi Chandrawal, Emily Curlin, Lauren Phelps, Tye Smith, Steve Tu
 ### *Category and Subcategory DataFrames (Results)*
 
  By: Lauren Phelps & Steve Tuttle
- 
+
 A "category_id" column that has entries going sequentially from "cat1" to "catn", where n is the number of unique categories A "category" was first created. Then a column that contains only the category titles A "subcategory_id" column that has entries going sequentially from "subcat1" to "subcatn", where n is the number of unique subcategories. A "subcategory" column was created that contains only the subcategory titles. During this time numpy arrays from 1-9 for the categories and 1-24 for the subcategories were created, which organizes the data to have 9 categories with 24 sub categories.
 
 
@@ -38,7 +38,7 @@ A "category_id" column that has entries going sequentially from "cat1" to "catn"
 
 [Steve Subcategory CSV](https://github.com/emily-curlin/Crowdfunding_ETL/blob/main/Resources/subcategory.csv)
 # ________________________________________
-## *Campaign DataFrame (Results)*
+### *Campaign DataFrame (Results)*
 
 By: Emily Curlin
 
@@ -57,7 +57,7 @@ The "launched_at" column, was renamed to "launch_date" with the UTC times conver
 [Emily Query](https://github.com/emily-curlin/Crowdfunding_ETL/blob/main/Database/query_emily.sql)
 # ________________________________________
 
-## Contacts DataFrame (Results)
+### *Contacts DataFrame (Results)*
 By: Ruchi Chandrawal
 
 First step was to convert each row to a dictionary, then 
@@ -74,17 +74,19 @@ Extracting the dictionary values from the keys by using a Python list comprehens
 
 # ________________________________________
 
-# Crowdfunding Database
+## Crowdfunding Database (Results)
 By: Tyler Williams
 
 
 Inspecting four CSV files, and then sketching an ERD of the tables by using QuickDBDLinks to an external site. Then Created a new Postgres database, in addition creating the tables in the correct order to handle the foreign keys. Also,during this segment ran a SELECT statement for each table, prior to saving it to a csv file.
 
+[Tyler SQL db](https://github.com/emily-curlin/Crowdfunding_ETL/blob/main/Database/crowdfunding_db_schema_nick.sql)
+
 # ________________________________________
 # Readme
-By:Tye Smith
+By: Tye Smith
 
-In the read me all assignments are broken down with the respected people assigned to the task. A short description of what all they had to complete to achieve the results with their data. Where possible a picture was attatched, as well as a link to the exact work they had put into a CSV file. The use of different Markdown coding was used to change the size of fonts, italicized lettering, and headers/ sub headers.
+In the readme all assignments are broken down with the respected people assigned to the task. A short description of what all they had to complete to achieve the results with their data. Where possible a picture was attached, as well as a link to the exact work they had put into a CSV file. The use of different Markdown coding was used to change the size of fonts, italicized lettering, and headers/ sub headers.
 
 
 
