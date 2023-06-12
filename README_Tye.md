@@ -20,8 +20,8 @@ Contributors: Ruchi Chandrawal, Emily Curlin, Lauren Phelps, Tye Smith, Steve Tu
 ### *Category and Subcategory DataFrames (Results)*
 
  By: Lauren Phelps & Steve Tuttle
-
-Created numpy arrays from 1-9 for the categories and 1-24 for the subcategories, which organizes the data to have 9 categories with 24 sub categories.
+ 
+A "category_id" column that has entries going sequentially from "cat1" to "catn", where n is the number of unique categories A "category" was first created. Then a column that contains only the category titles A "subcategory_id" column that has entries going sequentially from "subcat1" to "subcatn", where n is the number of unique subcategories. A "subcategory" column was created that contains only the subcategory titles. During this time numpy arrays from 1-9 for the categories and 1-24 for the subcategories were created, which organizes the data to have 9 categories with 24 sub categories.
 
 
 
