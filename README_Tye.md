@@ -87,9 +87,12 @@ Inspecting four CSV files, and then sketching an ERD of the tables by using Quic
 By: Tye Smith
 
 In the readme all assignments are broken down with the respected people assigned to the task. A short description of what all they had to complete to achieve the results with their data. Where possible a picture was attached, as well as a link to the exact work they had put into a CSV file. The use of different Markdown coding was used to change the size of fonts, italicized lettering, and headers/ sub headers.
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+>>>>>>> 295a29a643c41764154dc966c345dbf5d4db79ce
